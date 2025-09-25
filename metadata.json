@@ -1,0 +1,7 @@
+{
+  "name": "Neogenesis Audio Visualizer",
+  "description": "A dynamic, real-time 3D audio visualizer built with React and Three.js. Experience your music as a vibrant, evolving fractal landscape, reacting to every beat and frequency from your microphone or audio files.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
